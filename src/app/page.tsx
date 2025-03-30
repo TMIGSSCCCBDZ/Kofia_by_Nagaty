@@ -488,14 +488,14 @@ function CollectionSection() {
         <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {[
             {
-              name: "Ancient's Grace",
+              name: "Ancient&quots;Grace",
               description:
                 "Inspired by the elegant profile of ancient, this scarf features subtle hieroglyphic patterns.",
               price: "EGP",
               image: "https://pngimg.com/d/scarf_PNG43.png",
             },
             {
-              name: "Ancient's Legacy",
+              name: "Ancient&quot;s Legacy",
               description: "Rich navy and gold tones blend with ancient royal symbols in this statement piece.",
               price: "EGP",
               image: "https://pngimg.com/d/scarf_PNG43.png",
@@ -591,7 +591,7 @@ function TestimonialsSection() {
             },
             {
               quote:
-                "Not only beautiful but meaningful. The symbolism woven into each scarf makes it more than just an accessory—it's a conversation piece.",
+                "Not only beautiful but meaningful. The symbolism woven into each scarf makes it more than just an accessory—it&quot;s a conversation piece.",
               author: "Mostafa",
               title: "Historian",
               avatar: "/placeholder.svg?height=80&width=80",
