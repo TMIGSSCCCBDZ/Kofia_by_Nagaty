@@ -602,9 +602,9 @@ function TestimonialsSection() {
               whileHover={{ scale: 1.03 }}
               className="relative overflow-hidden rounded-lg border border-gold/20 bg-navy/30 p-6 backdrop-blur-sm"
             >
-              <div className="absolute -right-4 -top-4 text-6xl text-gold/10">"</div>
+              <div className="absolute -right-4 -top-4 text-6xl text-gold/10">&quot;</div>
 
-              <p className="relative mb-6 text-gray-300">"{testimonial.quote}"</p>
+              <p className="relative mb-6 text-gray-300">"{testimonial.quote}&quot;</p>
 
               <div className="flex items-center gap-4">
                 <div className="h-12 w-12 flex items-center justify-center  overflow-hidden rounded-full border border-gold/30">
