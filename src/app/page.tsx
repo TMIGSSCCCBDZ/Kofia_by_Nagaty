@@ -604,7 +604,7 @@ function TestimonialsSection() {
             >
               <div className="absolute -right-4 -top-4 text-6xl text-gold/10">&quot;</div>
 
-              <p className="relative mb-6 text-gray-300">"{testimonial.quote}&quot;</p>
+              <p className="relative mb-6 text-gray-300">&quot;{testimonial.quote}&quot;</p>
 
               <div className="flex items-center gap-4">
                 <div className="h-12 w-12 flex items-center justify-center  overflow-hidden rounded-full border border-gold/30">
